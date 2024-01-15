@@ -1,4 +1,4 @@
-# Sales-Funnel-Analysis-for-Hostel-Chain
+# Sales Funnel Analysis for Hostel Chain
 
 The Sales Funnel Analysis for the Strent AH Pvt Limited (SAPL) hostel chain provides critical insights into the lead generation process, conversion rates, and key areas for improvement. The analysis spans from lead generation to onboarding, identifying challenges and opportunities for process optimization.
 
@@ -9,13 +9,13 @@ The Sales Funnel Analysis for the Strent AH Pvt Limited (SAPL) hostel chain prov
   3. Overall Conversion Rate (Onboarding Rate): 13.77%
   4. Average Time to Onboard: 23.05 days
 
-![alt text](viz/cards.png)
+![alt text](viz/Cards.png)
 
  ## •	Lead Generation Insights 
  
 Lead generation shows promising growth initially, with a  noticeable drop after March 31, 2023. Further investigation required to understand the cause of the drop, potentially seasonal trends or operational issues.
 
-![alt text](viz/city_table.png)
+![alt text](viz/City_table.png)
 
 ## •	Sales Funnel Overview
 
@@ -44,7 +44,17 @@ Most leads are lost in the Visited and Agreement stages. Between Visited to Agre
 ## • Average Time to Onboard 
   Students spend an average of ~ 23 days from Pre-Verified to Onboarding stage. Average time spend in funnel is quite high by industry standards. Needs process improvements to reduce overall time spent in the funnel. 
 
+## Recommendation
+
+1. Process Improvement Survey: Conduct a comprehensive survey to identify bottlenecks in all stages of funnel. And Specifically inefficiencies in the Visited and Agreement stages.
+2. Regional Demand Analysis: Analyze regional variations in demand and tailor marketing strategies accordingly.
+3. Marketing Strategy: Develop a targeted marketing strategy based on potential seasonality and regional demand.
+4. Customer Journey Optimization: Streamline the customer journey to reduce the average time spent in the funnel
+
 ## Conclusion 
 
-  The Sales Funnel Analysis highlights areas for improvement in lead conversion rates and process efficiency. Addressing issues in the Visited and Agreement stages, understanding regional demand, and optimizing marketing strategies can contribute to a more effective sales funnel. Additionally, reducing the average time spent in the funnel will enhance the overall customer experience.
-  
+  The Sales Funnel Analysis reveals opportunities for improvement in lead conversion rates and operational efficiency. Addressing issues in the Visited and Agreement stages, understanding regional demand, and optimizing marketing strategies can contribute to a more effective sales funnel. Reducing the average time spent in the funnel will enhance overall customer satisfaction. The recommendations aim to provide actionable insights for ongoing improvements and strategic planning.
+
+#### Click here : [Live PowerBi Report]()   
+
+
