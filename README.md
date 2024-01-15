@@ -4,18 +4,18 @@ The Sales Funnel Analysis for the Strent AH Pvt Limited (SAPL) hostel chain prov
 
 ## • Key Metrics
 
-  Total Leads Generated: 559
-  Successfully Onboarded: 77
-  Overall Conversion Rate (Onboarding Rate): 13.77%
-  Average Time to Onboard: 23.05 days
+  1. Total Leads Generated: 559
+  2. Successfully Onboarded: 77
+  3. Overall Conversion Rate (Onboarding Rate): 13.77%
+  4. Average Time to Onboard: 23.05 days
 
-img.
+![alt text](viz/Cards.png)
 
  ## •	Lead Generation Insights 
  
 Lead generation shows promising growth initially, with a  noticeable drop after March 31, 2023. Further investigation required to understand the cause of the drop, potentially seasonal trends or operational issues.
 
-img. 
+![alt text](viz/city_table.png)
 
 ## •	Sales Funnel Overview
 
@@ -26,19 +26,20 @@ img.
 5. Agreement: 205 (Conversion Rate ~ 65 %)
 6. Onboarded: 77 (Conversion Rate ~ 35 %)
 
- img. 
+ ![alt text](viz/Funnel.png)
 
 ## • City-wise Leads Insights
 
 Varied conversion rates highlight opportunities and challenges in different cities. Some cities show high demand but lower conversion rates, while others with lower lead generation have higher conversion rates. Cities like Hyderabad, Mumbai and Bangalore exhibit lower lead generation but comparatively higher conversion rates. Whereas Delhi & Gurugram have significantly high demand but conversion rate is relatively low.     
 
-img. 
+![alt text](viz/Lead_Generation.png)
 
 ## • Most Lead Lost in Funnel Stages
 
 Most leads are lost in the Visited and Agreement stages. Between Visited to Agreement Conversion  ~ 65% leads lost and In Agreement to Onboarded Conversion ~ 37% leads lost.
 
-img. 
+ ![alt text](viz/visited_substage.png)
+ ![alt text](viz/Agreement_substage.png)
 
 ## • Average Time to Onboard 
   Students spend an average of ~ 23 days from Pre-Verified to Onboarding stage. Average time spend in funnel is quite high by industry standards. Needs process improvements to reduce overall time spent in the funnel. 
