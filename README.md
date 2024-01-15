@@ -55,6 +55,7 @@ Most leads are lost in the Visited and Agreement stages. Between Visited to Agre
 
   The Sales Funnel Analysis reveals opportunities for improvement in lead conversion rates and operational efficiency. Addressing issues in the Visited and Agreement stages, understanding regional demand, and optimizing marketing strategies can contribute to a more effective sales funnel. Reducing the average time spent in the funnel will enhance overall customer satisfaction. The recommendations aim to provide actionable insights for ongoing improvements and strategic planning.
 
-#### Click here : [Live PowerBi Report]()   
+#### Click here : [Live PowerBi Report](https://www.novypro.com/project/sales-funnel-analysis-for-hostel-chain-1)
+
 
 
