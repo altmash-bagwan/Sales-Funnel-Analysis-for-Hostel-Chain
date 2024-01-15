@@ -1,0 +1,27 @@
+substatus_id,substatus_name,status
+1,signup,pre verified
+2,mobile_updated,pre verified
+3,email_updated,pre verified
+4,id_proof_updated,pre verified
+5,hostel_preference_updated,pre verified
+6,Police_verification,pre verified
+7,email_verified,Verifed
+8,otp_verifed,Verifed
+9,id_proof_approved,Verifed
+10,Verified_lead,Verifed
+11,call_pending,connected
+12,connected,connected
+13,Visit_Scheduled,Visited
+14,Visit_cancelled,Visited
+15,Visit_done,Visited
+16,Visit_reschduled,Visited
+17,Visit_missed,Visited
+18,Aggrement initiated,Agreement
+19,Neotiation_stage,Agreement
+20,Aggrement shared,Agreement
+21,Aggrement_Signed,Agreement
+22,Agreement edit request,Agreement
+23,Payment Recvied,Agreement
+24,onboarding initiated,onboarded
+25,hostel_preference_alloted,onboarded
+26,student_shifted,onboarded
