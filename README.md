@@ -15,7 +15,7 @@ The Sales Funnel Analysis for the Strent AH Pvt Limited (SAPL) hostel chain prov
  
 Lead generation shows promising growth initially, with a  noticeable drop after March 31, 2023. Further investigation required to understand the cause of the drop, potentially seasonal trends or operational issues.
 
-![alt text](viz/City_table.png)
+![alt text](viz/Lead_Generation.png)
 
 ## •	Sales Funnel Overview
 
@@ -32,7 +32,7 @@ Lead generation shows promising growth initially, with a  noticeable drop after 
 
 Varied conversion rates highlight opportunities and challenges in different cities. Some cities show high demand but lower conversion rates, while others with lower lead generation have higher conversion rates. Cities like Hyderabad, Mumbai and Bangalore exhibit lower lead generation but comparatively higher conversion rates. Whereas Delhi & Gurugram have significantly high demand but conversion rate is relatively low.     
 
-![alt text](viz/Lead_Generation.png)
+![alt text](viz/City_table.png)
 
 ## • Most Lead Lost in Funnel Stages
 
