@@ -57,6 +57,13 @@ Most leads are lost in the Visited and Agreement stages. Between Visited to Agre
 
 #### Click here : [Live PowerBi Report](https://www.novypro.com/project/sales-funnel-analysis-for-hostel-chain-power-bi-1)
 
+![alttext](viz/report_snap.png)
+
+
+
+### Thanks for exploring !
+
+
 
 
 
